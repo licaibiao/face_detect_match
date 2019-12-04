@@ -17,3 +17,11 @@ opencv_study
 [《OpenCV 实践——人脸检测与人脸图像提取》](https://blog.csdn.net/li_wen01/article/details/78369751)
 
 通过OpenCV实现人脸检测和人脸图像的提取
+
+
+mtcnn_face_detect
+-----------------
+
+[《MTCNN实践——人脸检测功能应用》](https://blog.csdn.net/li_wen01/article/details/78369751)
+
+通过mtcnn实现人脸检测的功能
