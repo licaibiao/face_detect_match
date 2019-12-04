@@ -1,0 +1,4 @@
+
+
+#display must use the cmd :
+export DISPLAY=:0

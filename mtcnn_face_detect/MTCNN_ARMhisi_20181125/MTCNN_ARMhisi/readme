@@ -1,0 +1,4 @@
+
+#display image in ubuntu 16.06
+#must set the DISPLAY env
+export DISPLAY=:0
